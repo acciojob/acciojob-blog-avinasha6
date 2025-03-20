@@ -4,6 +4,10 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+.image-1{
+	
+}
 .images{
-	height: 50px;
+	height: 100px;
+	width: 200px;
 }

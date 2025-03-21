@@ -4,10 +4,13 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+h1{
+	text-align:center;
+}
 .image-1{
 	
 }
 .images{
-	height: 100px;
+	height: 200px;
 	width: 200px;
 }
